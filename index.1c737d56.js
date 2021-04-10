@@ -1,0 +1,2 @@
+function t(){if(tham=document.getElementById("nav-tham"),nav=document.getElementById("mobile-nav"),tham.classList.contains("tham-active"))return tham.classList.remove("tham-active"),nav.classList.add("h-0"),void nav.classList.add("invisible");tham.classList.add("tham-active"),nav.classList.remove("h-0"),nav.classList.remove("invisible")}window.onload=function(){document.getElementById("nav-tham").addEventListener("click",t)};
+//# sourceMappingURL=index.1c737d56.js.map
