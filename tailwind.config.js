@@ -5,7 +5,9 @@ module.exports = {
     purgeLayersByDefault: true,
   },
   // purge: ["./src/*.html"],
-  purge: false,
+  purge: [
+    '**.vue'
+  ],
   theme: {
     extend: {
       colors: {
