@@ -22,6 +22,24 @@
       </div>
 
 
+      <div class="py-6">
+        <img class="w-full object-contain mb-2" src="~/assets/images/mw65.jpeg" />
+        Gasket-mount low-profile 65% with SP-Star Purple tactile switches and budget keycaps.
+      </div>
+
+
+      <div class="py-6">
+        <img class="w-full object-contain mb-2" src="~/assets/images/mw75.jpeg" />
+        Gasket-mount 75% (MW75) with Akko CS Matcha switches (my recent favourite!). Keycaps are for demo only.
+      </div>
+
+
+      <div class="py-6">
+        <img class="w-full object-contain mb-2" src="~/assets/images/split75.jpeg" />
+        Split 75% keyboard for a friend, with Akko CS Matcha switches and Stargazing clones.
+      </div>
+
+
       <div class="text-center pb-8 leading-tight">
         <NuxtLink to="/commission" class="font-semibold text-lightblue-800 underline">Commission me</NuxtLink>.<br /><br />
         Questions? <a href="mailto:hello@ningzy.me" class="font-semibold text-lightblue-800 underline">Email me</a>!
